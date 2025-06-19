@@ -1,0 +1,16 @@
+[
+{
+  "id": "1",
+  "name": "Phytolacca Berry",
+  "imageurl": "https://raw.githubusercontent.com/vitestapp/rxhomeocare/refs/heads/main/images/phytolacca.jpg",
+  "price": "170",
+  "itemdiscount": "5"
+},
+{
+  "id": "2",
+  "name": "Tonicard Gold Drop",
+  "imageurl": "https://raw.githubusercontent.com/vitestapp/rxhomeocare/refs/heads/main/images/tonicard.jpg",
+  "price": "120",
+  "itemdiscount": "0"
+}
+]
