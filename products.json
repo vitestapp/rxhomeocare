@@ -12,5 +12,19 @@
   "imageurl": "https://raw.githubusercontent.com/vitestapp/rxhomeocare/refs/heads/main/images/tonicard.jpg",
   "price": "120",
   "itemdiscount": "0"
+},
+{
+  "id": "3",
+  "name": "Arnica Montana",
+  "imageurl": "https://raw.githubusercontent.com/vitestapp/rxhomeocare/refs/heads/main/images/arnica.jpg",
+  "price": "1080",
+  "itemdiscount": "5"
+},
+{
+  "id": "4",
+  "name": "SBL Damiagra Forte Drops",
+  "imageurl": "https://raw.githubusercontent.com/vitestapp/rxhomeocare/refs/heads/main/images/damiagra_forte_drops.jpg",
+  "price": "299",
+  "itemdiscount": "0"
 }
 ]
